@@ -1,20 +1,21 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import React, {useState} from 'react';
+import {Alert, Modal, StyleSheet, Text, Pressable, View,TextInput} from 'react-native';
 
-export default function App() {
+import Bai1 from './Tuan03/Week3-Ex1'
+const App = () => {
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
+    <View style = {styles.container}>
+      <Week3-Ex1/>
     </View>
   );
-}
+};
 
 const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
+  
   },
 });
+
+export default App;
