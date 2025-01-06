@@ -53,11 +53,13 @@ The app also integrates several advanced features like product filtering, sortin
 - 🚀 **Favorites**: Add items to your favorites list and manage them.
 - 🚀 **Checkout**: Secure and simple payment process.
 - 🚀 **Order Creation**: Create and track orders after checkout.
+  
+## Link Video Demo
+[Link Video Youtube](https://youtu.be/yYwRrmmWyFQ?si=vbrsfTP2vATTX9DY)
 
 ## Screenshots
-
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
-    <img src="https://imgur.com/lyo6Fbq.png" alt="Home Page" style="width: 80%; height: auto; object-fit: cover;">
+    <img src="https://imgur.com/lyo6Fbq.png" alt="Home Page" style="width: 100%; height: auto; object-fit: cover;">
 </div>
 
 ## Getting Started
