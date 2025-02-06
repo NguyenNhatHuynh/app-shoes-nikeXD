@@ -98,4 +98,4 @@ Before you begin, ensure you have the following installed:
 ## Author 👨‍💻
 ### I would appreciate it if you could give this repository a star 🌟. It would help others to discover this. Thank you for your support [Nguyen Nhat Huynh] 👨‍💻
 
-- [x] **Project Status**: Final
+- [x] **Status Project**: Done
